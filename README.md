@@ -1,11 +1,12 @@
 ### Olá! Eu sou o Matheus Oliveira 👋
+Aluno técnico em TI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-oliveira-53b747302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theusin.o?jlzcnk3NHQ0aHo3&utm_source=qr)
 
 ---
 
-### Tecnologias que eu uso no meu dia a dia 🖥️
+### Linguagens que eu uso no meu dia a dia 🖥️
 
 <div style="display: inline_block"><br/>
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
