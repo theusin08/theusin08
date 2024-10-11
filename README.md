@@ -31,3 +31,6 @@ Se você quiser trocar ideias ou discutir sobre tecnologia, estou por aqui:
 **Email:** [aomatheus1202@gmail.com](mailto:aomatheus1202@gmail.com)
 
 ---
+
+
+<img src="https://raw.githubusercontent.com/rafaeltws/rafaeltws/output/snake.svg" alt="Snake animation" />
