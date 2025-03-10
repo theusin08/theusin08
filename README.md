@@ -33,4 +33,5 @@ Se você quiser trocar ideias ou discutir sobre tecnologia, estou por aqui:
 ---
 
 
-<img src="https://raw.githubusercontent.com/rafaeltws/rafaeltws/output/snake.svg" alt="Snake animation" />
+
+
